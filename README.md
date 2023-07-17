@@ -20,7 +20,6 @@ _Get started using GitHub in less than an hour._
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
